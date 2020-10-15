@@ -1,2 +1,3 @@
 # test
-its just test no more
+
+Пытаюсь изучить гитхаб its just test no more
